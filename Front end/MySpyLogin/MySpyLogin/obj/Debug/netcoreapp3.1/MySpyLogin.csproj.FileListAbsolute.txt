@@ -1,0 +1,16 @@
+D:\University\Year 2\Year 2\Team project\Front end\MySpyLogin\MySpyLogin\bin\Debug\netcoreapp3.1\MySpyLogin.exe
+D:\University\Year 2\Year 2\Team project\Front end\MySpyLogin\MySpyLogin\bin\Debug\netcoreapp3.1\MySpyLogin.deps.json
+D:\University\Year 2\Year 2\Team project\Front end\MySpyLogin\MySpyLogin\bin\Debug\netcoreapp3.1\MySpyLogin.runtimeconfig.json
+D:\University\Year 2\Year 2\Team project\Front end\MySpyLogin\MySpyLogin\bin\Debug\netcoreapp3.1\MySpyLogin.runtimeconfig.dev.json
+D:\University\Year 2\Year 2\Team project\Front end\MySpyLogin\MySpyLogin\bin\Debug\netcoreapp3.1\MySpyLogin.dll
+D:\University\Year 2\Year 2\Team project\Front end\MySpyLogin\MySpyLogin\bin\Debug\netcoreapp3.1\MySpyLogin.pdb
+D:\University\Year 2\Year 2\Team project\Front end\MySpyLogin\MySpyLogin\obj\Debug\netcoreapp3.1\MySpyLogin.csprojAssemblyReference.cache
+D:\University\Year 2\Year 2\Team project\Front end\MySpyLogin\MySpyLogin\obj\Debug\netcoreapp3.1\MySpyLogin.Form1.resources
+D:\University\Year 2\Year 2\Team project\Front end\MySpyLogin\MySpyLogin\obj\Debug\netcoreapp3.1\MySpyLogin.Forms.Form1.resources
+D:\University\Year 2\Year 2\Team project\Front end\MySpyLogin\MySpyLogin\obj\Debug\netcoreapp3.1\MySpyLogin.csproj.GenerateResource.cache
+D:\University\Year 2\Year 2\Team project\Front end\MySpyLogin\MySpyLogin\obj\Debug\netcoreapp3.1\MySpyLogin.AssemblyInfoInputs.cache
+D:\University\Year 2\Year 2\Team project\Front end\MySpyLogin\MySpyLogin\obj\Debug\netcoreapp3.1\MySpyLogin.AssemblyInfo.cs
+D:\University\Year 2\Year 2\Team project\Front end\MySpyLogin\MySpyLogin\obj\Debug\netcoreapp3.1\MySpyLogin.csproj.CoreCompileInputs.cache
+D:\University\Year 2\Year 2\Team project\Front end\MySpyLogin\MySpyLogin\obj\Debug\netcoreapp3.1\MySpyLogin.dll
+D:\University\Year 2\Year 2\Team project\Front end\MySpyLogin\MySpyLogin\obj\Debug\netcoreapp3.1\MySpyLogin.pdb
+D:\University\Year 2\Year 2\Team project\Front end\MySpyLogin\MySpyLogin\obj\Debug\netcoreapp3.1\MySpyLogin.genruntimeconfig.cache
